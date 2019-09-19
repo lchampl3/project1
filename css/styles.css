@@ -1,3 +1,9 @@
+body {
+    background-color: antiquewhite;
+    font-family:sans-serif;
+}
+
+
 .good-boi {
     position: absolute;
     height: 100px;
